@@ -29,3 +29,5 @@ Then the output is given in the form of the top 10 restaurants with multiple oth
 >Rating (out of 5)
 
 >Dishes liked
+
+The report for the same is made in **CRISP-DM Methodology** and is available in both .docx and .pdf format. 
